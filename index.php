@@ -6,3 +6,5 @@
  * Time: 16:49
  */
 echo "Hello!";
+echo "Hello2!";
+?>
